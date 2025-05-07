@@ -1,0 +1,14 @@
+langchain 
+langgraph 
+langchain_community  
+langchain-groq 
+langchainhub 
+langchain 
+langchain_google_genai
+langgraph 
+wikipedia
+python-dotenv
+streamlit
+chromadb
+google
+google-generativeai
