@@ -29,7 +29,7 @@ The application is deployed on **Streamlit Cloud** using the `streamlit` CLI, pr
 
 Below is a diagram representing the structure of the multi-agent workflow using LangGraph.
 
-![Agentic Workflow Structure](./path/to/structure_image.png)
+![Agentic Workflow Structure](./demo-images/FinleraAgenticFlow.jpg)
 
 **Workflow Steps**:
 1. **User Input**
@@ -63,7 +63,7 @@ Showcasing key features of the chat system and its capabilities:
 
 ![Chat UI](./path/to/chat_ui_image.png)
 ![Tool Routing Example](./path/to/tool_routing_demo.png)
-![Streamlit Logs](./path/to/log_console_screenshot.png)
+![Logs in terminal](./demo-images/image.png)
 
 ---
 
