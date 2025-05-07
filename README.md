@@ -80,6 +80,37 @@ streamlit run app.py
 
 👉 [Check out the live app on Streamlit Cloud](https://inflera-assignment-chirag7.streamlit.app/)
 
+---
+
+## ⚠️ Environment Variables & API Keys
+
+> **Important:**  
+> The `.env` file has been **intentionally removed** from the GitHub repository to protect sensitive API credentials and ensure the security of deployed services.
+
+During deployment, we used **Streamlit Secrets Management** to securely store and access our API keys and environment variables. This keeps them safe and prevents accidental exposure in public repos.
+
+### 🔧 Running Locally?
+
+To run the app locally, you need to:
+
+1. Create a `.env` file in the root directory.
+2. Add your required API keys in the format:
+
+    ```env
+    GROQ_API_KEY=your_key_here
+    TAVILY_API_KEY=your_key_here
+    ```
+
+3. In your `app.py` or relevant files, load these variables using:
+
+    ```python
+    import os
+    os.getenv("GROQ_API_KEY")
+    ```
+
+> Keep your `.env` file out of version control by ensuring `.gitignore` includes `.env`.
+
+---
 
 
 ## 🧰 Tech Stack
