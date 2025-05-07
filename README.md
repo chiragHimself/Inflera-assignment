@@ -61,9 +61,8 @@ Below is a diagram representing the structure of the multi-agent workflow using 
 
 Showcasing key features of the chat system and its capabilities:
 
-![Chat UI](./path/to/chat_ui_image.png)
-![Tool Routing Example](./path/to/tool_routing_demo.png)
-![Logs in terminal](./demo-images/image.png)
+![Chat UI](./demo-images/image.png)
+![Logs in terminal](./demo-images/logs-inflera.jpg)
 
 ---
 
@@ -85,6 +84,10 @@ streamlit deploy
 > Note: Logging output is visible in the **Streamlit Cloud Console** and your **local terminal**, but not in the browser CLI.
 
 ---
+## 🌐 Live Demo
+
+👉 [Check out the live app on Streamlit Cloud]([https://your-streamlit-app-url](https://inflera-assignment-chirag7.streamlit.app/))
+
 
 ## 🧰 Tech Stack
 
