@@ -23,9 +23,8 @@ from typing import TypedDict
 import streamlit as st
 
 
-load_dotenv()
-groq_api_key = os.environ["GROQ_API_KEY"]
-tavily = os.environ["TAVILY_API_KEY"]
+groq_api_key = st.secrets.get("GROQ_API_KEY")
+tavily = st.secrets.get("TAVILY_API_KEY")
 
 
 
