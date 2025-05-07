@@ -22,6 +22,7 @@ The application is deployed on **Streamlit Cloud** using the `streamlit` CLI, pr
   - **Streamlit Cloud Console logs**
   - **Local terminal**
   > 🔒 Logs are not displayed in the Streamlit Web CLI due to platform limitations but are not lost.
+  > ![Logs in terminal](./demo-images/logs-inflera.jpg)
 
 ---
 
@@ -57,12 +58,8 @@ Below is a diagram representing the structure of the multi-agent workflow using 
 
 ---
 
-## 📸 Demo
 
-Showcasing key features of the chat system and its capabilities:
 
-![Chat UI](./demo-images/image.png)
-![Logs in terminal](./demo-images/logs-inflera.jpg)
 
 ---
 
@@ -134,9 +131,7 @@ To run the app locally, you need to:
 
 ---
 
-## 🙌 Acknowledgements
-
-Thanks to [Inflera](https://inflera.com) for this exciting opportunity to build a real-world AI-powered agentic system using cutting-edge technologies in NLP, retrieval, and conversational AI.
+## 🙌 This is a submission for Inflera's assignment - created by chirag.
 
 ---
 
