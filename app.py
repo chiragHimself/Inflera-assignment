@@ -286,7 +286,7 @@ def invoke(question):
 st.title("💬 Inflera RAG-Powered Multi-Agent Q&A")
 
 # Text input area
-user_input = st.text_area("Type your Question:", height=60)
+user_input = st.text_area("Type your Question:")
 
 # Submit button
 if st.button("Submit"):
