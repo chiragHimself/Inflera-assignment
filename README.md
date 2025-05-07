@@ -75,18 +75,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-### Streamlit Cloud Deployment
 
-```bash
-streamlit deploy
-```
-
-> Note: Logging output is visible in the **Streamlit Cloud Console** and your **local terminal**, but not in the browser CLI.
-
----
 ## 🌐 Live Demo
 
-👉 [Check out the live app on Streamlit Cloud]([https://your-streamlit-app-url](https://inflera-assignment-chirag7.streamlit.app/))
+👉 [Check out the live app on Streamlit Cloud](https://inflera-assignment-chirag7.streamlit.app/)
+
 
 
 ## 🧰 Tech Stack
